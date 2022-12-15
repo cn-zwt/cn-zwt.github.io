@@ -496,10 +496,6 @@ dl dd {
 	border-radius: 100%;
 }
 
-#header .logo .icon:before {
-	font-size: 2rem;
-}
-
 #header .content {
 	border-style: solid;
 	border-color: #ffffff;
@@ -642,10 +638,6 @@ body.is-loading #header .content .inner {
 		width: 4.75rem;
 		height: 4.75rem;
 		line-height: 4.75rem;
-	}
-
-	#header .logo .icon:before {
-		font-size: 1.75rem;
 	}
 
 	#header .content .inner {
